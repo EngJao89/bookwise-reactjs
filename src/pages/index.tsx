@@ -1,9 +1,52 @@
-import { Inter } from "next/font/google";
+import Head from "next/head";
+import { IoTrendingUpOutline } from "react-icons/io5";
 
-const inter = Inter({ subsets: ["latin"] });
+import { CardComment } from "@/components/CardComment";
+import { TrendingBooks } from "@/components/TrendingBooks";
+import { 
+  Container, 
+  ContainerHeader, 
+  ContainerTrend, 
+  ContentBook, 
+  TextHeader, 
+  TextSubtitle 
+} from "./styles";
+import { DefaultLayout } from "@/layout/DefaultLayout";
 
 export default function Home() {
   return (
-    <h1>Book Wise</h1>
-  );
+    <>
+      <Head>
+        <title>Home | Book Wise</title>
+      </Head>
+
+      <DefaultLayout>
+        <Container>
+
+          <ContainerTrend>
+            <TrendingBooks />
+          </ContainerTrend>
+
+          <ContentBook>
+            <ContainerHeader>
+              <TextHeader>
+                <IoTrendingUpOutline 
+                  size={28}
+                  color="#50B2C0"
+                  style={{ paddingRight: 10 }}
+                />
+                Início
+              </TextHeader>
+            </ContainerHeader>
+
+            <TextSubtitle>
+              Avaliações mais recentes
+            </TextSubtitle>
+
+            <CardComment />
+          </ContentBook>
+        </Container>
+      </DefaultLayout>
+    </>
+  )
 }
