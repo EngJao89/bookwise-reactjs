@@ -5,7 +5,7 @@
       "name": "14 Hábitos de Desenvolvedores Altamente Produtivos",
       "author": "Zeno Rocha",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/main/public/book-list/14-habitos-de-desenvolvedores-altamente-produtivos.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/main/public/book-list/14-habitos-de-desenvolvedores-altamente-produtivos.svg",
       "total_pages": 160,
       "categories": [
         {
@@ -23,7 +23,7 @@
       "name": "O Hobbit",
       "author": "J.R.R. Tolkien",
       "summary": "Semper et sapien proin vitae nisi. Feugiat neque integer donec et aenean posuere amet ultrices. Cras fermentum id pulvinar varius leo a in. Amet libero pharetra nunc elementum fringilla velit ipsum. Sed vulputate massa velit nibh",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/2886f8deeb5c954e8a1f76a70de4a7480baaa9c3/public/book-list/o-hobbit.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/71d1662b79037d84dabf3f9e06283b7be6501482/public/book-list/o-hobbit.svg",
       "total_pages": 360,
       "categories": [
         {
@@ -41,7 +41,7 @@
       "name": "O guia do mochileiro das galáxias",
       "author": "Douglas Adams",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/2886f8deeb5c954e8a1f76a70de4a7480baaa9c3/public/book-list/o-guia-do-mochileiro-das-galaxias.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/71d1662b79037d84dabf3f9e06283b7be6501482/public/book-list/o-guia-do-mochileiro-das-galaxias.svg",
       "total_pages": 250,
       "categories": [
         {
@@ -59,7 +59,7 @@
       "name": "A revolução dos bichos",
       "author": "George Orwell",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/2886f8deeb5c954e8a1f76a70de4a7480baaa9c3/public/book-list/a-revolucao-dos-bichos.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/71d1662b79037d84dabf3f9e06283b7be6501482/public/book-list/a-revolucao-dos-bichos.svg",
       "total_pages": 350,
       "categories": [
         {
@@ -77,7 +77,7 @@
       "name": "O fim da eternidade",
       "author": "Isaac Asimov",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/main/public/book-list/o-fim-da-eternidade.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/main/public/book-list/o-fim-da-eternidade.svg",
       "total_pages": 165,
       "categories": [
         {
@@ -95,7 +95,7 @@
       "name": "Entendendo Algoritmos",
       "author": "Aditya Y. Bhargava",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/main/public/book-list/entendendo-algoritmos.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/main/public/book-list/entendendo-algoritmos.svg",
       "total_pages": 165,
       "categories": [
         {
@@ -113,7 +113,7 @@
       "name": "Código Limpo",
       "author": "Robert C. Martin",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/main/public/book-list/codigo-limpo.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/main/public/book-list/codigo-limpo.svg",
       "total_pages": 365,
       "categories": [
         {
@@ -131,7 +131,7 @@
       "name": "O poder do hábito",
       "author": "Charles Duhigg",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/main/public/book-list/o-poder-do-habito.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/main/public/book-list/o-poder-do-habito.svg",
       "total_pages": 288,
       "categories": [
         {
@@ -149,7 +149,7 @@
       "name": "Arquitetura limpa",
       "author": "Robert C. Martin",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/2886f8deeb5c954e8a1f76a70de4a7480baaa9c3/public/book-list/arquitetura-limpa.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/71d1662b79037d84dabf3f9e06283b7be6501482/public/book-list/arquitetura-limpa.svg",
       "total_pages": 288,
       "categories": [
         {
@@ -167,7 +167,7 @@
       "name": "Histórias extraordinárias",
       "author": "Edgar Allan Poe",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/2886f8deeb5c954e8a1f76a70de4a7480baaa9c3/public/book-list/historias-extraordinarias.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/71d1662b79037d84dabf3f9e06283b7be6501482/public/book-list/historias-extraordinarias.svg",
       "total_pages": 332,
       "categories": [
         {
@@ -185,7 +185,7 @@
       "name": "Refatoração",
       "author": "Martin Fowler",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/2886f8deeb5c954e8a1f76a70de4a7480baaa9c3/public/book-list/refatoracao.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/71d1662b79037d84dabf3f9e06283b7be6501482/public/book-list/refatoracao.svg",
       "total_pages": 332,
       "categories": [
         {
@@ -203,7 +203,7 @@
       "name": "Domain-Driven Design",
       "author": "Eric Evans",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/main/public/book-list/domain-driven-design.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/71d1662b79037d84dabf3f9e06283b7be6501482/public/book-list/domain-driven-design.svg",
       "total_pages": 288,
       "categories": [
         {
@@ -221,7 +221,7 @@
       "name:": "Viagem ao Centro da Terra",
       "author": "Julio Verne",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/main/public/book-list/viagem-ao-centro.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/main/public/book-list/viagem-ao-centro.svg",
       "total_pages": 288,
       "categories": [
         {
@@ -239,7 +239,7 @@
       "name": "Fragmentos do Horror",
       "author": "Junji Ito",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/main/public/book-list/fragmentos-do-horror.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/main/public/book-list/fragmentos-do-horror.svg",
       "total_pages": 144,
       "categories": [
         {
@@ -257,7 +257,7 @@
       "name": "O Programador Pragmático",
       "author": "Andrew Hunt",
       "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
-      "cover_url": "https://raw.githubusercontent.com/EngJao89/ignite-reactjs-bookwise/main/public/book-list/o-programador-pragmatico.svg",
+      "cover_url": "https://raw.githubusercontent.com/EngJao89/bookwise-reactjs/main/public/book-list/o-programador-pragmatico.svg",
       "total_pages": 205,
       "categories": [
         {
